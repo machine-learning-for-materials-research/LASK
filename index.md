@@ -1,7 +1,7 @@
 # Low-Cost Autonomous Scientist Kit
 Research into [robotic science labs](https://www.cell.com/matter/fulltext/S2590-2385%2821%2900306-4) (a.k.a. self-driving labs (SDL), autonomous research systems, etc.) involve equipment costing from tens of thousands to tens of millions of dollars. __This website is dedicated to the open-source development of the low-cost, minimum viable product kit for robotic science.__ The kit has been published under the name [LEGO-based Low-cost Autonomous Science kit (LEGOLAS)](https://link.springer.com/article/10.1557/s43577-022-00430-2) and has been used for 3 years in an annual course at UMD and is being introduced in JHU and Loyola University courses.  
 
-<img src="https://github.com/machine-learning-for-materials-research/LASK/blob/main/images/Picture4.jpg" width="500"> 
+<img src="https://github.com/machine-learning-for-materials-research/LASK/blob/main/images/Picture4.jpg?raw=true" width="500"> 
 Left: Kit used in UMD, Right: Robotic scientist kit <br><br>
 
 Robotic science places machine learning (ML) in control of automated scientific equipment, allowing ML to perform experiment design, execution, and analysis in a closed loop. The ML driving the robot must be capable of 1) analyzing data collected from past experiments, 2) predict the potential outcomes of future experiments, 3) determine the best set of experiments to perform next to hone-in on user goals. <br>
